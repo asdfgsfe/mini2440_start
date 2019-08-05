@@ -1,2 +1,2 @@
-# mini2440-start
+# mini2440_start
 just anther repository
